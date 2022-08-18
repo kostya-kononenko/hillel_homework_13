@@ -1,1 +1,1 @@
-OneToOneField, ForeignKey, ManyToManyField
+Celery
